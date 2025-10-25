@@ -8,43 +8,43 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Raman Goyal, Ph.D."
+title                    : "Arohi Jain, Ph.D."
 title_separator          : "-"
-name                     : &name "Raman Goyal"
-description              : &description "Research Scientist, Palo Alto Research Center (PARC), SRI International"
-url                      : https://ramaniitrgoyal92.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Arohi Jain"
+description              : &description "Postdoctoral Associate, Stony Brook University"
+url                      : https://arohijain.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ramaniitrgoyal92/ramaniitrgoyal92.github.io"
+repository               : "ArohiJain/ArohiJain.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "RamanGoyal5x5.jpg"
-  name             : "Raman Goyal"
-  pronouns         : # example: "she/her"  
-  bio              : "Research Scientist"
+  avatar           : "ArohiJain.jfif"
+  name             : "Arohi Jain"
+  pronouns         : # example: "she/her"
+  bio              : "Postdoctoral Associate"
   location         : "San Francisco Bay Area"
-  employer         : "SRI International"
+  employer         : "Stony Brook University"
   uri              : # URL
-  email            : "ramaniitr.goyal92@gmail.com" 
+  email            : "arohi.jain@stonybrook.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  linkedin         : "raman-goyal-279a9781"
-  googlescholar    : "https://scholar.google.com/citations?user=6V2vgCUAAAAJ&hl=en"
+  linkedin         : "arohi-jain9"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=rEyQyqgAAAAJ"
   impactstory      : # URL
   # orcid            : "https://orcid.org/0000-0002-8128-3051"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/Raman-Goyal-2"
+  researchgate     : "https://www.researchgate.net/profile/Arohi_Jain3"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "ramaniitrgoyal92"
+  github           : "ArohiJain"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
