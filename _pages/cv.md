@@ -48,17 +48,12 @@ Honors and Awards
 * CSIR Research Fellowship, Government of India (2017-2022)
 * National Eligibility for Lectureship (NET), UGC (2016)
 
-Teaching and Professional Service
+Teaching Experience
 ------
 * **Teaching Assistant**
   * Department of Physics & Astrophysics \| University of Delhi \| *2019-2021*
   * Advised graduate students on dissertations in laser-plasma physics
   * Designed assignments, exams, and optics lab experiments
-
-* **Professional Service**
-  * Volunteer, *Vigyan Samagam*, National Science Centre, New Delhi
-  * Organizing member, *PLASMA-2018*, University of Delhi
-  * Reviewer for journals and conferences (2018-2023)
 
 Technical Skills
 ------
@@ -66,9 +61,5 @@ Technical Skills
 * **Software:** openPMD-viewer, HPC Cluster, FBPIC, OSIRIS
 * **Languages:** Hindi (native), English (professional)
 
-Professional Memberships
-------
-* SPIE – The International Society of Optics and Photonics
-* Plasma Science Society of India (PSSI)
-* Division of Plasma Physics, AAPPS
+
 
